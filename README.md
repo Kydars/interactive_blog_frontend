@@ -4,6 +4,4 @@ This repository contains the backend component of an interactive blog based upon
 
 # Stack
 Deployment: AWS <br />
-Backend/Controller: Python <br />
-Database: MondoDB <br />
-File System: AWS S3 <br />
+Frontend: React + Javascript <br />
